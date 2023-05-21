@@ -1,6 +1,6 @@
 # color-changer
 
-A React web app for changing the background of the site using Formik.
+A React web app for changing the background color of the site using Formik.
 
 ## Usage
 
